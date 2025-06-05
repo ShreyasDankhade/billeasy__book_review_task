@@ -195,7 +195,9 @@ When `sequelize.sync()` runs on startup, it creates three tables:
 - \`Book\` 1 → * `Review` (via `bookId`)
 
 
-![alt text](<Editor _ Mermaid Chart-2025-06-05-072541.png>)
+
+
+![alt text](<DB ER diagram.png>)
 
 
 ---
