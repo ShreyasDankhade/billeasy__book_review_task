@@ -194,6 +194,10 @@ When `sequelize.sync()` runs on startup, it creates three tables:
 - \`User\` 1 → * `Review` (via `userId`)
 - \`Book\` 1 → * `Review` (via `bookId`)
 
+
+![alt text](<Editor _ Mermaid Chart-2025-06-05-072541.png>)
+
+
 ---
 
 ## Example API Requests (Postman)
